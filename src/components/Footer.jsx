@@ -22,7 +22,7 @@ function Footer() {
                         </a>
                     </p>
 
-                    <p class="mt-4 text-sm text-white sm:order-first sm:mt-0">&copy; 2024 Rebecca</p>
+                    <p class="mt-4 text-sm text-white sm:order-first sm:mt-0">&copy; 2024 Rebecca Meegahapola</p>
                 </div>
             </div>
         </div>
