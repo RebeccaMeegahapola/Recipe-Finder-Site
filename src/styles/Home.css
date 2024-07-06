@@ -1,0 +1,4 @@
+.cards:hover {
+    border: 4px solid #008000;
+    border-top: 0;
+}
